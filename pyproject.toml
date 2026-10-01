@@ -1,7 +1,7 @@
 [project]
-name = "ai-agent-workflow"
+name = "bloomflow"
 version = "0.1.0"
-description = "Add your description here"
+description = "Scaffold for a CrewAI-based multi-agent workflow with memory and persistence"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

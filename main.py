@@ -1,5 +1,5 @@
 def main():
-    print("Hello from initial-crewai-workflow!")
+    print("Hello from BloomFlow!")
 
 
 if __name__ == "__main__":
