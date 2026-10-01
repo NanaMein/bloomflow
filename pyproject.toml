@@ -1,0 +1,18 @@
+[project]
+name = "ai-agent-workflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai>=1.15.22",
+    "langchain>=1.4.2",
+    "langchain-cohere>=0.6.0",
+    "mem0ai[nlp]>=2.0.5",
+    "redis>=8.1.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.9",
+]
